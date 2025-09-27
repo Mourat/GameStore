@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75cb4278-d3d2-4bcf-bcdd-8a4389ab6169" name="Changes" comment="" />
+    <list default="true" id="75cb4278-d3d2-4bcf-bcdd-8a4389ab6169" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/plugins/core-gamestore/core-gamestore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +17,38 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mourat"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mourat/GameStore.git",
+    "accountId": "f8248028-e333-4493-bba1-3c17b6192940"
+  }
+}]]></component>
+  <component name="NamedScopeManager">
+    <scope name="GameStore" pattern="file[GameStore]:themes/gamestore/assets//*||file[GameStore]:themes/gamestore/parts//*" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="33IA4P92IfH4NEBbSsKhdmAO07k" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,24 +58,61 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/docker_projects/GameStore/mu-plugins",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/docker_projects/GameStore/plugins/blocks-gamestore/src/block-header",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.Watch.executor": "Run",
+    "npm.build.executor": "Run",
+    "settings.editor.selected.configurable": "project.scopes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\docker_projects\GameStore\plugins\blocks-gamestore\src\block-header" />
+      <recent name="D:\docker_projects\GameStore\plugins" />
       <recent name="D:\docker_projects\GameStore\mu-plugins" />
       <recent name="D:\docker_projects\GameStore\.srv\wordpress\wp-content\themes" />
       <recent name="D:\docker_projects\GameStore\.srv\wordpress\wp-content\mu-plugins" />
-      <recent name="D:\docker_projects\GameStore\.srv\wordpress\wp-content\plugins" />
-      <recent name="D:\docker_projects\GameStore" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\docker_projects\GameStore\plugins\blocks-gamestore\src\blocks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="Watch" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/plugins/blocks-gamestore/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/plugins/blocks-gamestore/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.Watch" />
+      <item itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -63,11 +129,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758994021469</updated>
-      <workItem from="1758994022782" duration="7197000" />
+      <workItem from="1758994022782" duration="10311000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1759010681625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759010681625</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

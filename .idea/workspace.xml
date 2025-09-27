@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75cb4278-d3d2-4bcf-bcdd-8a4389ab6169" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/plugins/core-gamestore/core-gamestore.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="75cb4278-d3d2-4bcf-bcdd-8a4389ab6169" name="Changes" comment="Blocks plugin created">
+      <change beforePath="$PROJECT_DIR$/plugins/blocks-gamestore/blocks-gamestore.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/blocks-gamestore/blocks-gamestore.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758994021469</updated>
-      <workItem from="1758994022782" duration="10311000" />
+      <workItem from="1758994022782" duration="10480000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -139,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759010681625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Blocks plugin created">
+      <option name="closed" value="true" />
+      <created>1759013834307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759013834307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Blocks plugin created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blocks plugin created" />
   </component>
 </project>

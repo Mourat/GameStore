@@ -16,7 +16,7 @@ jobs:
         steps:
         - name: Add GitHub Runner IP to o2switch whitelist
           run: |
-            IP=$(curl -s https://api.ipify.org)
+            IP="$(curl -s https://api.ipify.org)"
             echo "Detected runner IP: $IP"
             echo "RUNNER_IP=$IP" >> $GITHUB_ENV
             curl -sm 45 \

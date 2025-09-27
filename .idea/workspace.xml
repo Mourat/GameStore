@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75cb4278-d3d2-4bcf-bcdd-8a4389ab6169" name="Changes" comment="Blocks plugin created">
-      <change beforePath="$PROJECT_DIR$/plugins/blocks-gamestore/blocks-gamestore.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/blocks-gamestore/blocks-gamestore.php" afterDir="false" />
-    </list>
+    <list default="true" id="75cb4278-d3d2-4bcf-bcdd-8a4389ab6169" name="Changes" comment="DEV Branch Created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev",
     "last_opened_file_path": "D:/docker_projects/GameStore/plugins/blocks-gamestore/src/block-header",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -127,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758994021469</updated>
-      <workItem from="1758994022782" duration="10480000" />
+      <workItem from="1758994022782" duration="10809000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -145,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759013834307</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="DEV Branch Created">
+      <option name="closed" value="true" />
+      <created>1759014235410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759014235410</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +160,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Blocks plugin created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blocks plugin created" />
+    <MESSAGE value="DEV Branch Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="DEV Branch Created" />
   </component>
 </project>

@@ -10,7 +10,7 @@ on:
 jobs:
     deploy:
         env:
-            TARGET_PATH: ${{ github.event_name == 'push' && '/home/miwi8421/gamestore/dev.gamestore.webdazur.com' || '/home/miwi8421/gamestore/gamestore.webdazur.com' }}
+            TARGET_PATH: ${{ github.event_name == 'push' && '/home/miwi8421/gamestore/devgamestore.webdazur.com' || '/home/miwi8421/gamestore/gamestore.webdazur.com' }}
         runs-on: ubuntu-latest
 
         steps:

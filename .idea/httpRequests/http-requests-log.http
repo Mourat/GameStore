@@ -1,0 +1,10 @@
+GET https://moustache.o2switch.net:2083/execute/SshWhitelist/add?address=5.181.187.131&port=22
+Authorization: cpanel miwi8421:RN1RW5Y3QYA0J1A2JW7IFL5H2IJ069YQ
+User-Agent: IntelliJ HTTP Client/PhpStorm 2025.2.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-09-28T013536.200.json
+
+###
+

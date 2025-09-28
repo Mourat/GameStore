@@ -1,6 +1,6 @@
 .DS_Store
 /.srv/*
-/.idea
+/.idea/*
 request.rest
 !/.srv/custom.ini
 /plugins/akismet
